@@ -170,7 +170,7 @@ export const Register: React.FC = () => {
             Create Account
           </Button>
         </form>
-        <StyledLink to="/login">Already have an account? Sign in</StyledLink>
+        <StyledLink to="/">Already have an account? Sign in</StyledLink>
       </RegisterCard>
     </RegisterWrapper>
   );
